@@ -6,6 +6,8 @@ The Barnes wearable prototype app is designed to show users images and associate
 
 There are three main technical components to the project: the Android Wear app, the Salesforce Content Management System and backend API, and the Bluetooth Beacon hardware. This readme file details the Android Wear app code. There's also a Barnes Wearable Prototype Documentation Guide on github which provides step-by-step instructructions to setup and manage the non-technical aspects of all three components. 
 
+The Barnes Foundation wearable digital prototype was engineered by HappyFunCorp and the project was funded by the Barra Foundation as part of their Catalyst Fund. Read more about the development and testing of Barnes wearable on Medium.
+
 ## Android Wear app
 The android wear app has 2 flavors (this only changes the server url):
 
