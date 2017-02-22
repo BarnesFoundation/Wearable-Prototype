@@ -1,7 +1,13 @@
-# Barnes wear
+# Barnes Foundation Wearable Prototype
 
-## Android app
-The android app has 2 flavors (this only changes the server url):
+## Overview
+
+The Barnes wearable prototype app is designed to show users images and associated short text based on their proximity to a set of Bluetooth Beacons.
+
+There are three main technical components to the project: the Android Wear app, the Salesforce Content Management System and backend API, and the Bluetooth Beacon hardware. This readme file details the Android Wear app code. There's also a Barnes Wearable Prototype Documentation Guide on github which provides step-by-step instructructions to setup and manage the non-technical aspects of all three components. 
+
+## Android Wear app
+The android wear app has 2 flavors (this only changes the server url):
 
 | Flavor        | Description                                         |
 | ------------- | --------------------------------------------------- |
