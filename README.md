@@ -45,6 +45,14 @@ The login flow is detailed at https://developer.salesforce.com/docs/atlas.en-us.
 
 ## Salesforce setup
 
+### Instructions
+
+* General Instructions: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_qs_HelloWorld.htm
+* Create a custom object: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_qs_customobject.htm
+* Create an APEX class: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_qs_class.htm
+* Create an APEX trigger: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_qs_trigger.htm
+* Create test class: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_qs_test.htm
+
 ### Custom objects
 
 
